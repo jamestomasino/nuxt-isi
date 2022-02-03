@@ -1,0 +1,30 @@
+{
+  "name": "@jamestomasino/nuxt-isi",
+  "version": "1.0.0",
+  "description": "Module for implementing a fixed, expandable ISI tray on a nuxt site",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestomasino/nuxt-isi.git"
+  },
+  "keywords": [
+    "isi",
+    "pharma"
+  ],
+  "author": "James Tomasino",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jamestomasino/nuxt-isi/issues"
+  },
+  "homepage": "https://github.com/jamestomasino/nuxt-isi#readme",
+  "dependencies": {
+    "@jamestomasino/scroll-frame": "^1.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.49.7",
+    "sass-loader": "10"
+  }
+}

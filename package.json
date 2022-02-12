@@ -22,9 +22,5 @@
   "homepage": "https://github.com/jamestomasino/nuxt-isi#readme",
   "dependencies": {
     "@jamestomasino/scroll-frame": "^1.1.0"
-  },
-  "devDependencies": {
-    "sass": "^1.49.7",
-    "sass-loader": "10"
   }
 }
